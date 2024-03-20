@@ -1,0 +1,60 @@
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\MainWindow.g.cs
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\App.g.cs
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient_MarkupCompile.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient_MarkupCompile.lref
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\bin\Debug\GameClient.exe
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\bin\Debug\GameClient.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\MainWindow.baml
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.g.resources
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.exe
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameClient\obj\Debug\GameClient.pdb
+C:\Users\rychk\Desktop\CityGame\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\rychk\Desktop\CityGame\GameClient\bin\Debug\GameClient.exe
+C:\Users\rychk\Desktop\CityGame\GameClient\bin\Debug\GameClient.pdb
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\MainWindow.g.cs
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\App.g.cs
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient_MarkupCompile.cache
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient_MarkupCompile.lref
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\MainWindow.baml
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.g.resources
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.exe
+C:\Users\rychk\Desktop\CityGame\GameClient\obj\Debug\GameClient.pdb
+C:\Users\rychk\Desktop\CityGame-master\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\rychk\Desktop\CityGame-master\GameClient\bin\Debug\GameClient.exe
+C:\Users\rychk\Desktop\CityGame-master\GameClient\bin\Debug\GameClient.pdb
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\MainWindow.g.cs
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\App.g.cs
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient_MarkupCompile.cache
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient_MarkupCompile.lref
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\MainWindow.baml
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.g.resources
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.exe
+C:\Users\rychk\Desktop\CityGame-master\GameClient\obj\Debug\GameClient.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\bin\Debug\GameClient.exe
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\bin\Debug\GameClient.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\MainWindow.g.cs
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\App.g.cs
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient_MarkupCompile.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient_MarkupCompile.lref
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\MainWindow.baml
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.g.resources
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.exe
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameClient\obj\Debug\GameClient.pdb

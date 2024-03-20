@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="GameService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="NetTcpBinding_IGameService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8301/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8301/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IGameService_Connect_InputMessage">
+    <wsdl:part name="parameters" element="tns:Connect" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_Connect_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConnectResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_Disconnect_InputMessage">
+    <wsdl:part name="parameters" element="tns:Disconnect" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_SendMsg_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendMsg" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ConnectToLobby_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConnectToLobby" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_DisconnectFromLobby_InputMessage">
+    <wsdl:part name="parameters" element="tns:DisconnectFromLobby" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ReadData_InputMessage">
+    <wsdl:part name="parameters" element="tns:ReadData" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_MsgCallBack_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:MsgCallBack" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_LobbyCallBack_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:LobbyCallBack" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_LeaderSwitchCallBack_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:LeaderSwitchCallBack" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_PlayerKickedCallBack_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:PlayerKickedCallBack" />
+  </wsdl:message>
+  <wsdl:portType name="IGameService">
+    <wsdl:operation name="Connect">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameService/Connect" message="tns:IGameService_Connect_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameService/ConnectResponse" message="tns:IGameService_Connect_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Disconnect">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameService/Disconnect" message="tns:IGameService_Disconnect_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SendMsg">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameService/SendMsg" message="tns:IGameService_SendMsg_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConnectToLobby">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameService/ConnectToLobby" message="tns:IGameService_ConnectToLobby_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectFromLobby">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameService/DisconnectFromLobby" message="tns:IGameService_DisconnectFromLobby_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameService/ReadData" message="tns:IGameService_ReadData_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MsgCallBack">
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameService/MsgCallBack" message="tns:IGameService_MsgCallBack_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LobbyCallBack">
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameService/LobbyCallBack" message="tns:IGameService_LobbyCallBack_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LeaderSwitchCallBack">
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameService/LeaderSwitchCallBack" message="tns:IGameService_LeaderSwitchCallBack_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PlayerKickedCallBack">
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameService/PlayerKickedCallBack" message="tns:IGameService_PlayerKickedCallBack_OutputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NetTcpBinding_IGameService" type="tns:IGameService">
+    <wsp:PolicyReference URI="#NetTcpBinding_IGameService_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp" />
+    <wsdl:operation name="Connect">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/Connect" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Disconnect">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/Disconnect" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="SendMsg">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/SendMsg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="ConnectToLobby">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/ConnectToLobby" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectFromLobby">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/DisconnectFromLobby" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="ReadData">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/ReadData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="MsgCallBack">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/MsgCallBack" style="document" />
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LobbyCallBack">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/LobbyCallBack" style="document" />
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeaderSwitchCallBack">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/LeaderSwitchCallBack" style="document" />
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PlayerKickedCallBack">
+      <soap12:operation soapAction="http://tempuri.org/IGameService/PlayerKickedCallBack" style="document" />
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GameService">
+    <wsdl:port name="NetTcpBinding_IGameService" binding="tns:NetTcpBinding_IGameService">
+      <soap12:address location="net.tcp://localhost:8302/" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://localhost:8302/</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Upn>DESKTOP-0CQ3IKE\rychk</Upn>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

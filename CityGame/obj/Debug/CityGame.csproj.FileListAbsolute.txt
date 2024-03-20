@@ -1,0 +1,28 @@
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\bin\Debug\CityGame.dll.config
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\bin\Debug\CityGame.dll
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\bin\Debug\CityGame.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\obj\Debug\CityGame.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\obj\Debug\CityGame.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\obj\Debug\CityGame.dll
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\CityGame\obj\Debug\CityGame.pdb
+C:\Users\rychk\Desktop\CityGame\CityGame\bin\Debug\CityGame.dll.config
+C:\Users\rychk\Desktop\CityGame\CityGame\bin\Debug\CityGame.dll
+C:\Users\rychk\Desktop\CityGame\CityGame\bin\Debug\CityGame.pdb
+C:\Users\rychk\Desktop\CityGame\CityGame\obj\Debug\CityGame.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\CityGame\CityGame\obj\Debug\CityGame.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\CityGame\CityGame\obj\Debug\CityGame.dll
+C:\Users\rychk\Desktop\CityGame\CityGame\obj\Debug\CityGame.pdb
+C:\Users\rychk\Desktop\CityGame-master\CityGame\bin\Debug\CityGame.dll.config
+C:\Users\rychk\Desktop\CityGame-master\CityGame\bin\Debug\CityGame.dll
+C:\Users\rychk\Desktop\CityGame-master\CityGame\bin\Debug\CityGame.pdb
+C:\Users\rychk\Desktop\CityGame-master\CityGame\obj\Debug\CityGame.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\CityGame-master\CityGame\obj\Debug\CityGame.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\CityGame-master\CityGame\obj\Debug\CityGame.dll
+C:\Users\rychk\Desktop\CityGame-master\CityGame\obj\Debug\CityGame.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\bin\Debug\CityGame.dll.config
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\bin\Debug\CityGame.dll
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\bin\Debug\CityGame.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\obj\Debug\CityGame.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\obj\Debug\CityGame.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\obj\Debug\CityGame.dll
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\CityGame\obj\Debug\CityGame.pdb

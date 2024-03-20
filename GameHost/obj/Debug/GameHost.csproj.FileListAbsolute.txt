@@ -1,0 +1,44 @@
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\bin\Debug\GameHost.exe.config
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\bin\Debug\GameHost.exe
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\bin\Debug\GameHost.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\bin\Debug\CityGame.dll
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\bin\Debug\CityGame.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\bin\Debug\CityGame.dll.config
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\obj\Debug\GameHost.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\obj\Debug\GameHost.csproj.Up2Date
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\obj\Debug\GameHost.exe
+C:\Users\rychk\OneDrive\Рабочий стол\asd\CityGame\GameHost\obj\Debug\GameHost.pdb
+C:\Users\rychk\Desktop\CityGame\GameHost\bin\Debug\GameHost.exe.config
+C:\Users\rychk\Desktop\CityGame\GameHost\bin\Debug\GameHost.exe
+C:\Users\rychk\Desktop\CityGame\GameHost\bin\Debug\GameHost.pdb
+C:\Users\rychk\Desktop\CityGame\GameHost\bin\Debug\CityGame.dll
+C:\Users\rychk\Desktop\CityGame\GameHost\bin\Debug\CityGame.pdb
+C:\Users\rychk\Desktop\CityGame\GameHost\bin\Debug\CityGame.dll.config
+C:\Users\rychk\Desktop\CityGame\GameHost\obj\Debug\GameHost.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\CityGame\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\CityGame\GameHost\obj\Debug\GameHost.csproj.CopyComplete
+C:\Users\rychk\Desktop\CityGame\GameHost\obj\Debug\GameHost.exe
+C:\Users\rychk\Desktop\CityGame\GameHost\obj\Debug\GameHost.pdb
+C:\Users\rychk\Desktop\CityGame-master\GameHost\bin\Debug\GameHost.exe.config
+C:\Users\rychk\Desktop\CityGame-master\GameHost\bin\Debug\GameHost.exe
+C:\Users\rychk\Desktop\CityGame-master\GameHost\bin\Debug\GameHost.pdb
+C:\Users\rychk\Desktop\CityGame-master\GameHost\bin\Debug\CityGame.dll
+C:\Users\rychk\Desktop\CityGame-master\GameHost\bin\Debug\CityGame.pdb
+C:\Users\rychk\Desktop\CityGame-master\GameHost\bin\Debug\CityGame.dll.config
+C:\Users\rychk\Desktop\CityGame-master\GameHost\obj\Debug\GameHost.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\CityGame-master\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\CityGame-master\GameHost\obj\Debug\GameHost.csproj.CopyComplete
+C:\Users\rychk\Desktop\CityGame-master\GameHost\obj\Debug\GameHost.exe
+C:\Users\rychk\Desktop\CityGame-master\GameHost\obj\Debug\GameHost.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\bin\Debug\GameHost.exe.config
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\bin\Debug\GameHost.exe
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\bin\Debug\GameHost.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\bin\Debug\CityGame.dll
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\bin\Debug\CityGame.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\bin\Debug\CityGame.dll.config
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\obj\Debug\GameHost.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\obj\Debug\GameHost.csproj.Up2Date
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\obj\Debug\GameHost.exe
+C:\Users\rychk\OneDrive\Рабочий стол\CityGame-master\GameHost\obj\Debug\GameHost.pdb
